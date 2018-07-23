@@ -45,6 +45,9 @@ collections:
   tangents:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
