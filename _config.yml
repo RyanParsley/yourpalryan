@@ -48,6 +48,9 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+  tools:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -72,6 +75,14 @@ defaults:
   - scope:
       path: ""
       type: tangents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _tools
+  - scope:
+      path: ""
+      type: tools
     values:
       layout: single
       author_profile: true
