@@ -6,6 +6,8 @@ main:
     url: /tools
   - title: "Contact"
     url: /contact
+  - title: "Shop"
+    url: https://www.etsy.com/shop/RyanParsley
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
