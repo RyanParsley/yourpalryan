@@ -1,15 +1,12 @@
 ---
 layout: archive
 ---
-{{content}}
+{{ content }}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-<div>
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
-</div>
 
 {% include paginator.html %}
-
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us7.list-manage.com","uuid":"41ec7d5dd861a3fe096044a7d","lid":"1edf9a7371"}) })</script>
