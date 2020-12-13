@@ -1,6 +1,6 @@
 ---
 title: Gumbo Recipe
-date: 2020-12-13 21:18:24
+date: 2020-12-13 21:20:12
 tags:
 tumblr_url: >-
   http://yourpalryan.com/post/36790991277/i-look-forward-to-making-a-guitar-out-of-this
@@ -15,5 +15,7 @@ I like to make a roux like described in [Alton Brown's Gumbo recipe](https://www
 * 2 celary ribs (about 1 cup chopped
 * 1lb chicken thighs (I prefer bone in, but boneless is easier)
 * 1lb smoked sausage
+* 2 quarts of water (I just top off the pot once all the ingredients are in)
+* &nbsp;
 
 &nbsp;
