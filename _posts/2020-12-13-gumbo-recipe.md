@@ -27,10 +27,10 @@ I like to make a roux in the oven like described in&nbsp;[Alton Brown's Gumbo re
 * Tabasco
 * Chachere's
 
-Preheat the oven to 350. Mix flour and vegetable oil in an oven/stovetop safe pot big enough to hold at least 4 quarts. I like a cast iron dutch oven for this, but stainless is fine. Place pot in the oven and stir every 30minutes for at least 90 minutes. At the end of this 90minutes is about as good a time as any to start a rice pot.
+Preheat the oven to 350. Mix flour and vegetable oil in an oven/stovetop safe pot big enough to hold at least 4 quarts. I like a cast iron dutch oven for this, but stainless is fine. Place pot in the oven and stir every 30 minutes for at least 90 minutes. At the end of this 90 minutes is about as good a time as any to start a rice pot.
 
 This is a good time to chop your veggies and sausage. You'll add all the veggies at the same time so feel free to put them in one bowl once prepped.
 
 Once the Roux is somewhere between caramel and chocolate color stir in the veggies and saute them on the stovetop for a couple minutes until the onions turn clear. The roux will darken up as you cook down your veggies.
 
-Next, add the chicken and let the toss it around in the roux and veggies to brown up a little. When satisfied with the darkness of the roux, add water and seasoning and bring it to a boil. Boil for at least 20minutes to make sure the chicken is cooked through adding the sausage in for the last 10 minutes.
+Next, add the chicken and let the toss it around in the roux and veggies to brown up a little. When satisfied with the darkness of the roux, add water and seasoning and bring it to a boil. Boil for at least 20 minutes to make sure the chicken is cooked through adding the sausage in for the last 10 minutes.
