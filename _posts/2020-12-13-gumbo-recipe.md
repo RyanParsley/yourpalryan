@@ -2,8 +2,8 @@
 title: Gumbo Recipe
 date: 2020-12-13 21:20:00
 tags:
-tumblr_url: >-
-  http://yourpalryan.com/post/36790991277/i-look-forward-to-making-a-guitar-out-of-this
+header:
+  teaser: /assets/images/thumbnails/gumbo.jpg
 ---
 
 I like to make a roux in the oven like described in&nbsp;[Alton Brown's Gumbo recipe](https://www.foodnetwork.com/recipes/alton-brown/shrimp-gumbo-recipe-1946875). You can do it on the stove top or even in the microwave, but I've had mixed results trying to get the roux dark enough for a rich gumbo and not burning it (who needs that stress). The oven takes longer, but it's fool resistant. The 4 ounces of oil and flour works great to make a rich roux base for my size pot
