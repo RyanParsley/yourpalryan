@@ -27,6 +27,8 @@ I like to make a roux in the oven like described in [Alton Brown's Gumbo recipe]
 * Tabasco
 * Chachere's
 
+## Directions
+
 Preheat the oven to 350. Mix flour and vegetable oil in an oven/stovetop safe pot big enough to hold at least 4 quarts. I like a cast iron dutch oven for this, but stainless is fine. Place pot in the oven and stir every 30 minutes for at least 90 minutes. At the end of this 90 minutes is about as good a time as any to start a rice pot.
 
 This is a good time to chop your veggies and sausage. You'll add all the veggies at the same time so feel free to put them in one bowl once prepped.
