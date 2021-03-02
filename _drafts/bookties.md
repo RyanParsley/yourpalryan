@@ -1,16 +1,18 @@
 ---
 title: Bookties
-date: 2021-03-02 03:20:03
+date: 2021-03-02 03:24:04
 tags:
   - Recipe
 tumblr_url: >-
   http://yourpalryan.com/post/36790991277/i-look-forward-to-making-a-guitar-out-of-this
 ---
-9lbs Pork Shoulder (Piknic)
+## Ingredients
 
-5lbs Flour
+* 9lbs Pork Shoulder (picnic)
+* 5lbs Flour
+* 10lbs Potatoes (Peeled, quartered)
 
-10lbs Potatoes (Peeled, quartered)
+## Directions
 
 Peek and quarter Russet potatoes. Boil potatoes until tender (20min?). Drain and set aside.
 
@@ -20,7 +22,7 @@ While roast is going, roughly mash potatoes. Pour in about a third of the flour 
 
 Clean potato pot. Fill half way with water and bring to boil.
 
-Drop a few in the boiling water until they float (15-20min). Batch about 1 layer to not croud.
+Drop a few in the boiling water until they float (15-20min). Batch about 1 layer to not crowd.
 
 Take each batch out back to the cookie sheets for now. Let cool.
 
