@@ -1,9 +1,11 @@
 ---
 title: Posts
+permalink: /posts
 layout: archive
 pagination:
   enabled: true
   collection: posts
+  permalink: /:num/
 ---
 <div>
   {% for post in paginator.posts %}
