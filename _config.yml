@@ -134,8 +134,8 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-universal"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-474703-2"
+    tracking_id: "G-2VFD23XEL0"
 
 search: true
